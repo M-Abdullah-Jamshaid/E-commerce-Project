@@ -1,0 +1,10 @@
+[33me7dbb91[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-frontend-abdullah[m[33m, [m[1;31morigin/feature-frontend-abdullah[m[33m)[m HEAD@{0}: rebase (abort): returning to refs/heads/feature-frontend-abdullah
+[33m5ac5524[m HEAD@{1}: commit: Fixed conflicts and restored my code
+[33m7ef0b5e[m HEAD@{2}: pull origin feature-frontend-abdullah --rebase (start): checkout 7ef0b5ee8152454e8eb5c22186f21b799daa0bc7
+[33me7dbb91[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-frontend-abdullah[m[33m, [m[1;31morigin/feature-frontend-abdullah[m[33m)[m HEAD@{3}: commit: Resolved conflicts and restored frontend updates
+[33m8271c5a[m HEAD@{4}: checkout: moving from main to feature-frontend-abdullah
+[33m8f18374[m[33m ([m[1;32mmain[m[33m)[m HEAD@{5}: commit: pre-switch save
+[33mc7ff19c[m HEAD@{6}: reset: moving to HEAD
+[33mc7ff19c[m HEAD@{7}: commit: Fixed conflict manually
+[33m5d18712[m HEAD@{8}: commit (merge): Resolved conflicts: Kept animated products and new data
+[33m1c5ca42[m HEAD@{9}: commit: Saving my changes before pull
